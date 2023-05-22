@@ -1,2 +1,4 @@
-# combo-aluraplus
-HTML e CSS: Combo Aluraplus - a partir do zero em projetos web.
+<h1 align="center">:books: Projeto de estudo - Aluraplus</h1>
+
+<h2 align="center">Curso: A partir do zero: HTML e CSS para projetos web.
+:rocket:  Este foi meu primeiro projeto concluído iniciando no mundo do HTML e CSS! 
